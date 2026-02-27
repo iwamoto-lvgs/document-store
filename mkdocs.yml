@@ -1,0 +1,10 @@
+site_name: My Documentation
+site_url: https://iwamoto-lvgs.github.io/document-store/
+
+theme:
+  name: material
+  language: ja
+
+nav:
+  - ホーム: index.md
+  - About: about.md
